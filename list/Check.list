@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,stun.l.google.com
-||stun.l.google.com^
+||DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,ipcheck.im
 
 DOMAIN,speed.cloudflare.com
