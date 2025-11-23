@@ -3,9 +3,7 @@ IP-CIDR,142.251.215.0/24,no-resolve
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
-DOMAIN-SUFFIX,stun.l.google.com
-||google.com
-||youtube.com
+
 DOMAIN-SUFFIX,ipcheck.im
 
 DOMAIN,speed.cloudflare.com
@@ -58,3 +56,4 @@ DOMAIN-SUFFIX,ipify.org
 IP-CIDR,74.125.250.129/24,no-resolve
 
 DOMAIN-SUFFIX,l.google.com
+
